@@ -1,0 +1,14 @@
+ {
+        "agent_assignment_time": "1706357093.64",
+        "client_name": "unity_uat",
+        "end_time": "1706357994",
+        "extras": "{\"phone_number\": \"1234567890\", \"product_code\": \"TARAKKI\", \"stage_1_data\": {\"BASIC_DETAILS\": {\"phone_number\": \"1234567890\"}, \"Data\": {\"NOMINEE_DETAILS\": {\"nominee_address\": \"new address of nominee\", \"relationship_with_nominee\": \"guardian\", \"nominee_date_of_birth\": \"25-10-1995\", \"nominee_address_same_as_current_address\": false, \"nominee_full_name\": \"abhishek\", \"provide_nominee_details\": \"Yes\"}, \"PERSONAL_INFORMATION\": {\"current_address_not_same_as_aadhaar_address\": false, \"name\": \"Sumati Ramajayam Nadar\", \"current_address_state\": \"Maharashtra\", \"current_address_city\": \"Ahmadnagar\", \"gender\": \"Female\", \"current_address_pincode\": \"400072\", \"current_address_address_line_3\": \"Chandivali Farm Road,Andheri East\", \"current_address_address_line_2\": \"Chandivali Farm Road,Andheri East\", \"current_address_address_line_1\": \"C- 6111-6118, Oberoi Garden Estate,\", \"dob\": \"11-05-1997\", \"aadhaar_address\": \"Room No 4, Hanuman Road, Near Dhanalaxmi Stores, Kurla, Mumbai Suburban, Mumbai, I I T Market Powai, Powai IIT, Maharashtra, India, 400076\"}, \"BASIC_DETAILS\": {\"VERIFY_AADHAAR_OTP\": {\"ekycDetails\": {\"city\": \"Mumbai\", \"name\": \"Sumati Ramajayam Nadar\", \"district\": \"Mumbai Suburban\", \"photo\": \"/9j/4AAQSkZJRgABAgAAAQABAAD/\", \"subdistrict\": \"Kurla\", \"aadhaarNo\": \"XXXX XXXX 3503\", \"state\": \"Maharashtra\", \"location\": \"I I T Market Powai\", \"pin\": \"400076\", \"address\": \"Room No 4, Hanuman Road, Near Dhanalaxmi Stores, Kurla, Mumbai Suburban, Mumbai, I I T Market Powai, Powai IIT, Maharashtra, India, 400076\", \"careOf\": \"Ramajayam Nadar\", \"ekyc_timestamp\": \"1131456789\"}}, \"pan_number\": \"BRPPN0602J\", \"AML_CHECK\": {\"aml_exists\": false}, \"email\": \"abc@gmail.com\", \"politically_exposed_consent\": true}, \"PERSONAL_DETAILS\": {\"gross_annual_income\": \"< 1,00,000\", \"marital_status\": \"Single\", \"source_of_income\": \"Salary\", \"education\": \"Graduate\", \"father_spouse_full_name\": \"raj\", \"mother_name\": \"jaya\", \"occupation\": \"Salaried\"}}}}",
+        "link_id": "1234sdAAsiNXkS",
+        "phone_number": "1234567890",
+        "productCode": "TARAKKI",
+        "session_id": "1234xx-f16f-4556-afd5-f631a2fab889",
+        "session_status": "session_expired",
+        "session_type": "VKYC",
+        "start_time": "1706357093.64",
+        "user_id": "8447671120"
+    }

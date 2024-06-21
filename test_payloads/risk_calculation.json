@@ -1,0 +1,38 @@
+{
+    "errorDetails": null,
+    "riskResponse": {
+      "customerRiskLevel": "HIGH",
+      "customerRiskScore": 71,
+      "requestJson": {
+        "isEntity": "1",
+        "requestId": "A7",
+        "riskParameter": {
+          "annualIncomeTurnOver": "1000000000000",
+          "correspondAddrCountry": "IRAN",
+          "countryOfIncorporation": "Iran",
+          "custCategory": "PARTNERSHIP",
+          "industry": "BUILDERS AND CONTRACTOR",
+          "nationality": "IRAN",
+          "occupation": "",
+          "pep": "N",
+          "prodSubType": "DIGITAL SAVING BSBDA SCHEME"
+        }
+      },
+      "riskParamScores": {
+        "annualIncomeTurnOver": 3,
+        "correspondAddrCountry": 3,
+        "countryOfIncorporation": 1,
+        "custCategory": 1,
+        "industry": 3,
+        "overridingFactors": "correspondAddrCountry,annualIncomeTurnOver",
+        "paramValueOverriders": {
+          "Correspondence address Country": "High",
+          "Industry": "High",
+          "Product Sub Type": "High"
+        },
+        "prodSubType": 3
+      }
+    },
+    "statusCode": "200",
+    "timestamp": 1691731753296
+  }

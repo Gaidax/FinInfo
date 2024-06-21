@@ -1,0 +1,24 @@
+{
+    "action": "get_pick_list",
+    "response_code": 1,
+    "response_message": "Success",
+    "results": [
+      {
+        "dataCode": 1,
+        "dataDescription": "Branch Banking",
+        "id": 5931
+      },
+      {
+        "dataCode": 2,
+        "dataDescription": "Treasury",
+        "id": 5932
+      },
+      {
+        "dataCode": 3,
+        "dataDescription": "Digital",
+        "id": 5933
+      }
+    ],
+    "total_pages": 1,
+    "total_size": 3
+  }

@@ -1,0 +1,15 @@
+{
+    "isEntity": "0",
+    "requestId": "1001",
+    "riskParameter": {
+      "annualIncomeTurnOver": "10-20LAKHS",
+      "correspondAddrCountry": "India",
+      "countryOfIncorporation": "",
+      "custCategory": "Individual",
+      "industry": "",
+      "nationality": "India",
+      "occupation": "SALARIED",
+      "pep": "N",
+      "prodSubType": "2102"
+    }
+  }

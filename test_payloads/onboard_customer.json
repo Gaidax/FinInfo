@@ -1,0 +1,10 @@
+{
+    "action": "insertAndAuthorizeIndCustomer",
+    "response_code": 1,
+    "response_message": "Customer inserted",
+    "results": [
+      1358558
+    ],
+    "total_pages": 1,
+    "total_size": 1
+  }

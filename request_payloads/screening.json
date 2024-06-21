@@ -1,0 +1,39 @@
+{
+    "rampRequest": {
+      "listMatchingPayload": {
+        "requestListVO": {
+          "businessUnit": "IT",
+          "requestType": "API",
+          "requestVOList": [
+            {
+              "aadhar": "",
+              "address": "",
+              "city": "",
+              "concatAddress": "",
+              "country": "",
+              "customerId": "",
+              "digitalID": "",
+              "din": "",
+              "dob": "",
+              "docNumber": "",
+              "drivingLicence": "",
+              "email": "",
+              "entityName": "",
+              "name": "Dawoodibrahim",
+              "nationality": "",
+              "pan": "",
+              "passport": "",
+              "phone": "",
+              "pincode": "",
+              "rationCardNo": "",
+              "ssn": "",
+              "state": "",
+              "tin": "",
+              "voterId": ""
+            }
+          ],
+          "subBusinessUnit": "IT1"
+        }
+      }
+    }
+  }

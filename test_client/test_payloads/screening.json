@@ -1,0 +1,240 @@
+{
+    "rampResponse": {
+      "listMatchResponse": {
+        "matchResult": {
+          "matchFlag": true,
+          "responseVOList": [
+            {
+              "entryId": 18417,
+              "fields": [
+                {
+                  "matchedField": "Name",
+                  "sourceData": "ALOK KUMAR BANERJE",
+                  "targetData": "alok kumar banerjee"
+                }
+              ],
+              "listName": "RBIWilfulDefaulter",
+              "primaryName": "ALOK KUMAR BANERJEE",
+              "score": "96.29629629629629",
+              "targetData": {
+                "Address": "4/123, Aminipatti, Lembalkudi P.O, Thirumayam Taluk – 622412",
+                "AliasName": "AL-KUBAYSI ARHAYM, UMAR MAHMUD\nAL-KUBAYSI, UMAR MAHMUD RAHIM\nAL-QUBAYSI, UMAR MAHMUD RAHIM\nARHAYM, 'UMAR MAHMUD\nRAHIM, 'UMAR MAHMUD",
+                "CBICIRCULARNO": "CBO/CA/277/2014-15",
+                "City": "AL-QAIM",
+                "Country": "IRAQ (KURDISH)",
+                "Customer Address 1": "873-567/345 banjara hills road number 3 beside times now 1/234 palakol ",
+                "CustomerID": "987953994",
+                "DOBText": "01-Jan-1967",
+                "Location": "chennai",
+                "Name": "ALOK KUMAR BANERJEE ",
+                "OriginalSource": "OFAC",
+                "PAN": "AMDLD9434D",
+                "Passport": "B049614, C536660",
+                "POB": "CAIRO, EGYPT",
+                "RBICIRCULARNO": "3466",
+                "Source": "UST"
+              }
+            },
+            {
+              "entryId": 987953994,
+              "fields": [
+                {
+                  "matchedField": "Name",
+                  "sourceData": "ALOK KUMAR BANERJE",
+                  "targetData": "alok kumar banerjee "
+                }
+              ],
+              "listName": "CustomList",
+              "pan": "AMDLD9434D",
+              "primaryName": "ALOK KUMAR BANERJEE ",
+              "score": "96.29629629629629",
+              "targetData": {
+                "Address": "4/123, Aminipatti, Lembalkudi P.O, Thirumayam Taluk – 622412",
+                "AliasName": "AL-KUBAYSI ARHAYM, UMAR MAHMUD\nAL-KUBAYSI, UMAR MAHMUD RAHIM\nAL-QUBAYSI, UMAR MAHMUD RAHIM\nARHAYM, 'UMAR MAHMUD\nRAHIM, 'UMAR MAHMUD",
+                "CBICIRCULARNO": "CBO/CA/277/2014-15",
+                "City": "AL-QAIM",
+                "Country": "IRAQ (KURDISH)",
+                "Customer Address 1": "873-567/345 banjara hills road number 3 beside times now 1/234 palakol ",
+                "CustomerID": "987953994",
+                "DOBText": "01-Jan-1967",
+                "Location": "chennai",
+                "Name": "ALOK KUMAR BANERJEE ",
+                "OriginalSource": "OFAC",
+                "PAN": "AMDLD9434D",
+                "Passport": "B049614, C536660",
+                "POB": "CAIRO, EGYPT",
+                "RBICIRCULARNO": "3466",
+                "Source": "UST"
+              }
+            },
+            {
+              "dob": "08-Dec-1961",
+              "entryId": 100932,
+              "fields": [
+                {
+                  "matchedField": "Name",
+                  "sourceData": "ALOK KUMAR BANERJE",
+                  "targetData": "alok kumar banerj"
+                }
+              ],
+              "listName": "Accuity",
+              "passport": "C536660",
+              "primaryName": "ALOK KUMAR BANERJ",
+              "score": "96.0",
+              "targetData": {
+                "Address": "4/123, Aminipatti, Lembalkudi P.O, Thirumayam Taluk – 622412",
+                "AliasName": "AL-KUBAYSI ARHAYM, UMAR MAHMUD\nAL-KUBAYSI, UMAR MAHMUD RAHIM\nAL-QUBAYSI, UMAR MAHMUD RAHIM\nARHAYM, 'UMAR MAHMUD\nRAHIM, 'UMAR MAHMUD",
+                "CBICIRCULARNO": "CBO/CA/277/2014-15",
+                "City": "AL-QAIM",
+                "Country": "IRAQ (KURDISH)",
+                "Customer Address 1": "873-567/345 banjara hills road number 3 beside times now 1/234 palakol ",
+                "CustomerID": "987953994",
+                "DOBText": "01-Jan-1967",
+                "Location": "chennai",
+                "Name": "ALOK KUMAR BANERJEE ",
+                "OriginalSource": "OFAC",
+                "PAN": "AMDLD9434D",
+                "Passport": "B049614, C536660",
+                "POB": "CAIRO, EGYPT",
+                "RBICIRCULARNO": "3466",
+                "Source": "UST"
+              }
+            },
+            {
+              "country": "IRAQ (KURDISH)",
+              "dob": "01-Jan-1967",
+              "entryId": 257660,
+              "fields": [
+                {
+                  "matchedField": "Name",
+                  "sourceData": "ALOK KUMAR BANERJE",
+                  "targetData": "alkubaysi umar"
+                }
+              ],
+              "listName": "Accuity",
+              "primaryName": "AL-KUBAYSI, 'UMAR",
+              "score": "50.0",
+              "targetData": {
+                "Address": "4/123, Aminipatti, Lembalkudi P.O, Thirumayam Taluk – 622412",
+                "AliasName": "AL-KUBAYSI ARHAYM, UMAR MAHMUD\nAL-KUBAYSI, UMAR MAHMUD RAHIM\nAL-QUBAYSI, UMAR MAHMUD RAHIM\nARHAYM, 'UMAR MAHMUD\nRAHIM, 'UMAR MAHMUD",
+                "CBICIRCULARNO": "CBO/CA/277/2014-15",
+                "City": "AL-QAIM",
+                "Country": "IRAQ (KURDISH)",
+                "Customer Address 1": "873-567/345 banjara hills road number 3 beside times now 1/234 palakol ",
+                "CustomerID": "987953994",
+                "DOBText": "01-Jan-1967",
+                "Location": "chennai",
+                "Name": "ALOK KUMAR BANERJEE ",
+                "OriginalSource": "OFAC",
+                "PAN": "AMDLD9434D",
+                "Passport": "B049614, C536660",
+                "POB": "CAIRO, EGYPT",
+                "RBICIRCULARNO": "3466",
+                "Source": "UST"
+              }
+            },
+            {
+              "entryId": 190,
+              "fields": [
+                {
+                  "matchedField": "Name",
+                  "sourceData": "ALOK KUMAR BANERJE",
+                  "targetData": "ALOK KUMAR BANERJE"
+                }
+              ],
+              "listName": "RBICautions",
+              "primaryName": "ALOK KUMAR BANERJE",
+              "score": "100.0",
+              "targetData": {
+                "Address": "4/123, Aminipatti, Lembalkudi P.O, Thirumayam Taluk – 622412",
+                "AliasName": "AL-KUBAYSI ARHAYM, UMAR MAHMUD\nAL-KUBAYSI, UMAR MAHMUD RAHIM\nAL-QUBAYSI, UMAR MAHMUD RAHIM\nARHAYM, 'UMAR MAHMUD\nRAHIM, 'UMAR MAHMUD",
+                "CBICIRCULARNO": "CBO/CA/277/2014-15",
+                "City": "AL-QAIM",
+                "Country": "IRAQ (KURDISH)",
+                "Customer Address 1": "873-567/345 banjara hills road number 3 beside times now 1/234 palakol ",
+                "CustomerID": "987953994",
+                "DOBText": "01-Jan-1967",
+                "Location": "chennai",
+                "Name": "ALOK KUMAR BANERJEE ",
+                "OriginalSource": "OFAC",
+                "PAN": "AMDLD9434D",
+                "Passport": "B049614, C536660",
+                "POB": "CAIRO, EGYPT",
+                "RBICIRCULARNO": "3466",
+                "Source": "UST"
+              }
+            },
+            {
+              "entryId": 188,
+              "fields": [
+                {
+                  "matchedField": "Name",
+                  "sourceData": "ALOK KUMAR BANERJE",
+                  "targetData": "alok kumar banerjee"
+                }
+              ],
+              "listName": "RBIDefaulter",
+              "primaryName": "ALOK KUMAR BANERJEE",
+              "score": "96.29629629629629",
+              "targetData": {
+                "Address": "4/123, Aminipatti, Lembalkudi P.O, Thirumayam Taluk – 622412",
+                "AliasName": "AL-KUBAYSI ARHAYM, UMAR MAHMUD\nAL-KUBAYSI, UMAR MAHMUD RAHIM\nAL-QUBAYSI, UMAR MAHMUD RAHIM\nARHAYM, 'UMAR MAHMUD\nRAHIM, 'UMAR MAHMUD",
+                "CBICIRCULARNO": "CBO/CA/277/2014-15",
+                "City": "AL-QAIM",
+                "Country": "IRAQ (KURDISH)",
+                "Customer Address 1": "873-567/345 banjara hills road number 3 beside times now 1/234 palakol ",
+                "CustomerID": "987953994",
+                "DOBText": "01-Jan-1967",
+                "Location": "chennai",
+                "Name": "ALOK KUMAR BANERJEE ",
+                "OriginalSource": "OFAC",
+                "PAN": "AMDLD9434D",
+                "Passport": "B049614, C536660",
+                "POB": "CAIRO, EGYPT",
+                "RBICIRCULARNO": "3466",
+                "Source": "UST"
+              }
+            },
+            {
+              "entryId": 109,
+              "fields": [
+                {
+                  "matchedField": "Name",
+                  "sourceData": "ALOK KUMAR BANERJE",
+                  "targetData": "alok kumar banerjee "
+                }
+              ],
+              "listName": "RBICautionOnward",
+              "primaryName": "ALOK KUMAR BANERJEE ",
+              "score": "96.29629629629629",
+              "targetData": {
+                "Address": "4/123, Aminipatti, Lembalkudi P.O, Thirumayam Taluk – 622412",
+                "AliasName": "AL-KUBAYSI ARHAYM, UMAR MAHMUD\nAL-KUBAYSI, UMAR MAHMUD RAHIM\nAL-QUBAYSI, UMAR MAHMUD RAHIM\nARHAYM, 'UMAR MAHMUD\nRAHIM, 'UMAR MAHMUD",
+                "CBICIRCULARNO": "CBO/CA/277/2014-15",
+                "City": "AL-QAIM",
+                "Country": "IRAQ (KURDISH)",
+                "Customer Address 1": "873-567/345 banjara hills road number 3 beside times now 1/234 palakol ",
+                "CustomerID": "987953994",
+                "DOBText": "01-Jan-1967",
+                "Location": "chennai",
+                "Name": "ALOK KUMAR BANERJEE ",
+                "OriginalSource": "OFAC",
+                "PAN": "AMDLD9434D",
+                "Passport": "B049614, C536660",
+                "POB": "CAIRO, EGYPT",
+                "RBICIRCULARNO": "3466",
+                "Source": "UST"
+              }
+            }
+          ],
+          "searchedDate": 1511354621391,
+          "searchedFor": "Name : ALOK KUMAR BANERJE"
+        },
+        "responseHash": "0d9bac3db541dc17c7109cc94c87f5a9b66ff9e1a4eb9548dca82ccec9aa025a9cf6aaabc6f1129786986de2ae75a461acf7930d1036846166be6931692e9425",
+        "salt": "d3338b75d8c2359506b7c2b6269ac6bb"
+      },
+      "statusCode": "200",
+      "statusMessage": "Success",
+      "txnId": 1013
+    }
+  }

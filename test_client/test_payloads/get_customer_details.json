@@ -1,0 +1,71 @@
+{
+    "action": "get_customer_details",
+    "response_code": 1,
+    "response_message": "Success",
+    "results": [
+      {
+        "aadharNo": "N/A",
+        "address1": "xxxxxxxxxxxxxxxx,",
+        "address2": "xxxxxxxxxxxxxxx,",
+        "address3": "DHARWAD-580007",
+        "age": 64,
+        "branch": "DHARWAD",
+        "branchCode": 123,
+        "ccAccounts": [
+        ],
+        "city": "DHARWAD",
+        "currentAccounts": [
+        ],
+        "customerName": "xxxxxxx",
+        "customerType": "Individual",
+        "dob": "31-Dec-1958",
+        "fatherName": " ",
+        "firstName": "xxxx",
+        "gender": "Female",
+        "lastName": "xxxx",
+        "loanAccounts": [
+          {
+            "accountNo": "1234567890",
+            "accountStatus": 2,
+            "accountStatusDescription": "Closed",
+            "classificationId": 3,
+            "productCode": 3001,
+            "productDescription": "3001-LOAN AGAINST FD",
+            "role": "Primary Holder"
+          }
+        ],
+        "martialStatus": "MARRIED",
+        "middleName": "xxxxxx",
+        "mobileNo": "1234567890",
+        "occupation": "HOUSEWIFE",
+        "panNo": "ABCDE1234X",
+        "pinCode": "123456",
+        "religion": "HINDU",
+        "savingAccounts": [
+          {
+            "accountNo": "1234567890",
+            "accountStatus": 1,
+            "accountStatusDescription": "ACTIVE",
+            "classificationId": 2,
+            "productCode": 2094,
+            "productDescription": "1094-SAVINGS ACCOUNT GENERAL",
+            "role": "Primary Holder"
+          },
+          {
+            "accountNo": "1234567890",
+            "accountStatus": 1,
+            "accountStatusDescription": "ACTIVE",
+            "classificationId": 2,
+            "productCode": 2094,
+            "productDescription": "1094-SAVINGS ACCOUNT GENERAL",
+            "role": "Primary Holder"
+          }
+        ],
+        "spouseName": " ",
+        "state": "KARNATAKA",
+        "title": "Mrs."
+      }
+    ],
+    "total_pages": 1,
+    "total_size": 1
+  }

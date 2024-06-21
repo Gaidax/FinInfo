@@ -1,0 +1,68 @@
+{
+    "link_type": "free",
+    "user_id": "123456",
+    "phone_number": "1234567890",
+    "session_type": "VKYC",
+    "send_notification": "1",
+    "extras": {
+        "product_code": "{{product_code}}",
+        "stage_1_data": {
+            "Data": {
+                "BASIC_DETAILS": {
+                    "AML_CHECK": {
+                        "aml_exists": false
+                    },
+                    "VERIFY_AADHAAR_OTP": {
+                        "ekycDetails": {
+                            "aadhaarNo": "XXXX XXXX 1234",
+                            "address": "Room No 4, Hanuman Road, Near Dhanalaxmi Stores, Kurla, Mumbai Suburban, Mumbai, I I T Market Powai, Powai IIT, Maharashtra, India, 400076",
+                            "careOf": "Ramajayam Nadar",
+                            "city": "Mumbai",
+                            "district": "Mumbai Suburban",
+                            "location": "I I T Market Powai",
+                            "name": "Sumati Ramajayam Nadar",
+                            "photo": "/9j/4AAQSkZJRgABAgAAAQABAAD/",
+                            "pin": "400076",
+                            "state": "Maharashtra",
+                            "subdistrict": "Kurla",
+                            "ekyc_timestamp": "1131456789"
+                        }
+                    },
+                    "email": "abc@gmail.com",
+                    "pan_number": "ABCDE1234X",
+                    "politically_exposed_consent": true
+                },
+                "NOMINEE_DETAILS": {
+                    "nominee_address": "new address of nominee",
+                    "nominee_address_same_as_current_address": false,
+                    "nominee_date_of_birth": "25-10-1995",
+                    "nominee_full_name": "abhishek",
+                    "provide_nominee_details": "Yes",
+                    "relationship_with_nominee": "guardian"
+                },
+                "PERSONAL_DETAILS": {
+                    "education": "Graduate",
+                    "father_spouse_full_name": "raj",
+                    "gross_annual_income": "< 1,00,000",
+                    "marital_status": "Single",
+                    "mother_name": "jaya",
+                    "occupation": "Salaried",
+                    "source_of_income": "Salary"
+                },
+                "PERSONAL_INFORMATION": {
+                    "aadhaar_address": "Room No 4, Hanuman Road, Near Dhanalaxmi Stores, Kurla, Mumbai Suburban, Mumbai, I I T Market Powai, Powai IIT, Maharashtra, India, 400076",
+                    "current_address_address_line_1": "C- 6111-6118, Oberoi Garden Estate,",
+                    "current_address_address_line_2": "Chandivali Farm Road,Andheri East",
+                    "current_address_address_line_3": "Chandivali Farm Road,Andheri East",
+                    "current_address_city": "Ahmadnagar",
+                    "current_address_not_same_as_aadhaar_address": false,
+                    "current_address_pincode": "400072",
+                    "current_address_state": "Maharashtra",
+                    "dob": "11-05-1997",
+                    "gender": "Female",
+                    "name": "Sumati Ramajayam Nadar"
+                }
+            }
+        }
+    }
+}

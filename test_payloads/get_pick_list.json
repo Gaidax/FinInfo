@@ -1,0 +1,17 @@
+ [
+      {
+        "dataCode": 1,
+        "dataDescription": "Branch Banking",
+        "id": 5931
+      },
+      {
+        "dataCode": 2,
+        "dataDescription": "Treasury",
+        "id": 5932
+      },
+      {
+        "dataCode": 3,
+        "dataDescription": "Digital",
+        "id": 5933
+      }
+    ]
